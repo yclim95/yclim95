@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Hey I 'm YC~~
+### Hey I 'm YC~~ 👋
 
 <br />
 
