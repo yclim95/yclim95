@@ -1,15 +1,21 @@
 ### Hi there 👋
 
-<!--
 ## Hey I 'm YC~~
+
+<br />
 
 ## Have experience working in a Software company
 - 🔭 I’m currently a 42KL cadet
 - 🌱 I’m currently learning c Programming
 - 📫 How to reach me: Linkedin
--->
 
+## ✉️ Let's Connect
 
+<a href="https://www.linkedin.com/in/yclim950421/" target="_blank">
+ <img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+<a/>
+  
+<br/>
 <br/>
 
 ## ⚡ Languages and Frameworks:
@@ -29,15 +35,9 @@
 <img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <br/>
 <br/>
-
-## ✉️ Let's Connect
-
-<a href="https://www.linkedin.com/in/yclim950421/" target="_blank">
- <img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
-<a/>
-  
 <br/>
-<br/>
+
+
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
